@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/water_resource_Taiwan/static/css/main.d2163e65.css",
-    "main.js": "/water_resource_Taiwan/static/js/main.5b500b04.js",
+    "main.js": "/water_resource_Taiwan/static/js/main.0aab3d25.js",
     "static/js/453.f27c86b8.chunk.js": "/water_resource_Taiwan/static/js/453.f27c86b8.chunk.js",
     "index.html": "/water_resource_Taiwan/index.html",
     "main.d2163e65.css.map": "/water_resource_Taiwan/static/css/main.d2163e65.css.map",
-    "main.5b500b04.js.map": "/water_resource_Taiwan/static/js/main.5b500b04.js.map",
+    "main.0aab3d25.js.map": "/water_resource_Taiwan/static/js/main.0aab3d25.js.map",
     "453.f27c86b8.chunk.js.map": "/water_resource_Taiwan/static/js/453.f27c86b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2163e65.css",
-    "static/js/main.5b500b04.js"
+    "static/js/main.0aab3d25.js"
   ]
 }
