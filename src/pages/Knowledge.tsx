@@ -5,7 +5,7 @@ export default function Knowledge() {
         {/* 圖片區塊 */}
         <div className="md:w-1/2 w-full flex justify-center items-start">
           <img
-            src="/WK_Pedia_17.jpg"
+            src="/water_resource_Taiwan/WK_Pedia_17.jpg"
             alt="地下水污染來源示意圖"
             className="rounded-xl shadow-md w-full h-auto max-w-md object-contain"
           />

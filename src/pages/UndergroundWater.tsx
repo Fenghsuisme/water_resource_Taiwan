@@ -5,7 +5,7 @@ export default function Info() {
         {/* 圖片區塊 */}
         <div className="md:w-1/2 w-full flex justify-center items-start">
           <img
-            src="/underground_water_image.jpg"
+            src="/water_resource_Taiwan/underground_water_image.jpg"
             alt="地下水示意圖"
             className="rounded-xl shadow-md w-full h-auto object-cover"
           />

@@ -6,7 +6,7 @@ export default function Source() {
           {/* 圖片區塊 */}
           <div className="flex-1">
             <img
-              src="/global_water_map.png"
+              src='/water_resource_Taiwan/global_water_map.png'
               alt="Streamflow Trends 2021"
               className="rounded-xl shadow-md w-full"
             />

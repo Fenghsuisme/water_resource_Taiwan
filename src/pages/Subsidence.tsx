@@ -5,7 +5,7 @@ export default function Subsidence() {
         {/* 圖片區塊 */}
         <div className="md:w-1/2 w-full flex justify-center items-start">
           <img
-            src="/798928.jpg"
+            src="/water_resource_Taiwan/798928.jpg"
             alt="地層下陷示意圖"
             className="rounded-xl shadow-md w-full h-auto max-w-md object-contain"
           />
