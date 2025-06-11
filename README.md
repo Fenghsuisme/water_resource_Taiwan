@@ -1,46 +1,62 @@
-# Getting Started with Create React App
+# 台灣水資源智慧查詢平台 🌏💧
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+本專案是一個使用 **React + TypeScript + Tailwind CSS + Leaflet** 所開發的網站，旨在提供民眾與學生友善且具互動性的「台灣地下水資源資訊查詢與教育平台」，結合地圖定位與政府開放資料，推廣永續水資源與地層下陷知識。
 
-## Available Scripts
+🔗 [點我觀看網站](https://fenghsuisme.github.io/water_resource_Taiwan/)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 專案特色
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **互動式地圖查詢**：使用者可選擇任一監測站，顯示對應地下水資料與地層下陷狀況。
+- **地下水資訊**：顯示地下水位、導電度、重金屬濃度等重要指標。
+- **地層下陷判別**：根據河川分署區域判別是否為地層下陷區，並提供歷年最大累積下陷量。
+- **教育頁面**：
+  - 地下水來源與污染知識
+  - 地層下陷成因與後果
+  - 全球水資源變化地圖與解析
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+## 🔧 使用技術
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| 技術            | 說明                              |
+|-----------------|-----------------------------------|
+| React + TS      | 建構前端 SPA 架構                |
+| React Router    | 多頁面路由切換                    |
+| Tailwind CSS    | 設計系統與 RWD 美化                |
+| Leaflet         | 開源地圖渲染與互動點位標記        |
+| JSON + useState | 載入並動態顯示查詢結果            |
+| GitHub Pages    | 免費部署前端專案                  |
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🏁 快速開始
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+# 安裝依賴
+npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# 本機啟動
+npm start
 
-### `npm run eject`
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 📊 資料來源
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- 經濟部水利署水利資料開放平台：  
+  [https://opendata.wra.gov.tw](https://opendata.wra.gov.tw)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 📌 開發動機
 
-## Learn More
+本平台目的在於提升國人對於地下水資源保護的意識，尤其面對台灣部分地區日益嚴重的地層下陷與水資源汙染問題，結合地圖、開放資料與互動設計，讓資訊不再是冷冰冰的表格，而能化為生動有趣的學習體驗。
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📜 授權 License
+
+本專案僅用於教學與展示用途，圖片來自公開資料或自由授權。  
+如需正式商業使用，請確認來源資料授權或聯繫作者。
+
