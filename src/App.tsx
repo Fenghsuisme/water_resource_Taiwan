@@ -7,8 +7,8 @@ import Knowledge from "./pages/Knowledge";
 import Source from "./pages/Source";
 
 import NavBar from "./components/NavBar";
-// 預設空頁面作為占位
-const Dummy = ({ text }: { text: string }) => <div className="p-6 text-xl">{text}</div>;
+
+//  const Dummy = ({ text }: { text: string }) => <div className="p-6 text-xl">{text}</div>;
 
 function App() {
   return (
